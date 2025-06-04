@@ -1,0 +1,12 @@
+@theme test2; 
+/* @import "default"; */
+
+/* これ以降に、あなたのカスタムスタイルを記述します */
+section {
+  background-color: fuchsia !important; /* 目立つテスト用スタイル */
+  font-size: 20px; /* defaultテーマのフォントサイズを上書きしてみる */
+}
+
+h1 {
+  color: yellow !important; /* 目立つテスト用スタイル */
+}
