@@ -1,5 +1,5 @@
-@theme test2; 
-/* @import "default"; */
+/* @theme test2;  */
+ @import "default";
 
 /* これ以降に、あなたのカスタムスタイルを記述します */
 section {
